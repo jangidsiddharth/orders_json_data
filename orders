@@ -1,0 +1,9 @@
+[
+  {
+    "OrderId":1001,
+    "CustomerId":"C001",
+    "OrderDate":"2026-07-22T23:09:15Z",
+    "UpdatedDate":"2026-07-22T23:40:15Z",
+    "Amount":50.50
+  }
+]
